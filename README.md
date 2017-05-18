@@ -1,2 +1,5 @@
 # hello-world
-first project
+
+Hi! 
+
+Here to learn Python... Long journey ahead!
